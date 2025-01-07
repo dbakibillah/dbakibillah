@@ -1,5 +1,5 @@
 <div>
-  <img height="250" src="https://raw.githubusercontent.com/dbakibillah/dbakibillah/refs/heads/main/myLinkedInCover.png" />
+  <img height="200" src="https://raw.githubusercontent.com/dbakibillah/dbakibillah/refs/heads/main/myLinkedInCover.png" />
 </div>
 
 # Molla Md Baki Billah  
